@@ -31,8 +31,7 @@
 <br>
 
 <big><strong>📚 What I Learned</strong></big>
-<p>During the development process, I discovered and explored several new HTML features.</p>
-<p>I’ve applied these learnings in this project and plan to use them in future projects as well.</p>
+<p>During the development process, I discovered and explored several new HTML features. I’ve applied these learnings in this project and plan to use them in future projects as well.<p>
 
 <hr>
 

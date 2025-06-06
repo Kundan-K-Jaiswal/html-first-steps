@@ -1,13 +1,30 @@
 # html-first-steps 
 
-  <pre>
-  In this repository, I have applied my knowledge and learning to create a simple and basic 
-  form that collects information such as first name, middle name, last name, gender, address, 
-  pincode, country, and feedback. I have used various HTML elements including <div>, 
-  headings (<h1>), paragraphs (<p>), <hr>, <br>, <form>, <input>, <label>, <select>,
-  <textarea>, <header>, <main>, and <footer>. While building this form, I discovered and 
-  learned a few new things, which I have also implemented here. I plan to incorporate these 
-  learnings into my future projects as needed.
+<pre>
+  <strong>📄 Project Overview :</strong>
+  This repository showcases a simple HTML form that collects basic user information, including:
+  <ul> 
+    <li>First Name</li>
+    <li>Middle Name</li>
+    <li>Last Name</li>
+    <li>Gender</li>
+    <li>Address</li>
+    <li>Pincode</li>
+    <li>Country</li>
+    <li>Feedback</li>
+  </ul>
+
+  <strong>🛠️ What I Used : </strong>
+  While building this form, I utilized a variety of HTML elements, such as:
+  <ul> 
+    <li>Structural Tags: <code> <div>, <header>, <main>, <footer> </code> <li>
+    <li>Text Elements: <code> <h1>, <p>, <br>, <hr> </code> <li>
+    <li>Form Elements: <code> <form>, <input>, <label>, <select>, <textarea> </code> <li>
+  </ul>
+
+  <strong>📚 What I Learned</strong>
+    During the development process, I discovered and explored several new HTML features.
+    I’ve applied these learnings in this project and plan to use them in future projects as well.
   </pre>
 
 <hr>
